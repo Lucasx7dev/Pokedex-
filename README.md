@@ -1,2 +1,2 @@
 # Pokedex-
-Pokedex feita inteiramente usando React.
+Pokedex em React
