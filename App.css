@@ -123,21 +123,19 @@ text-align: center;
 
 
 }
-/* Estiliza a área da lista de pokémons */
 .pokemon-list {
   padding: 1rem;
   max-width: 1000px;
   margin: 0 auto;
 }
 
-/* Estiliza o grid dos cards para aparecerem em fileiras */
+
 .pokemon-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 1rem;
 }
 
-/* Input da barra de pesquisa */
 .pokemon-search-input {
   padding: 0.5rem;
   margin-bottom: 1rem;
